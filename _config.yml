@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-sheets.api.streamdata.gallery
+title: Streamdata Gallery Google Sheets
+url: google-sheets.streamdata.gallery
 tag: Google Sheets
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-sheets
 github_branch: master
 collections:
