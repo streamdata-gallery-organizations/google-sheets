@@ -4,7 +4,7 @@ x-collection-name: Google Sheets
 x-complete: 1
 info:
   title: Google Sheets
-  description: reads-and-writes-google-sheets
+  description: reads-and-writes-google-sheets-
   termsOfService: https://developers.google.com/terms/
   contact:
     name: Google
