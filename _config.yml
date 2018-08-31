@@ -4,7 +4,7 @@ url: google-sheets.streamdata.gallery
 tag: Google Sheets
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: google-sheets
 github_branch: master
 collections:

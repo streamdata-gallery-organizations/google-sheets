@@ -1,15 +1,9 @@
----
 swagger: "2.0"
 x-collection-name: Google Sheets
 x-complete: 1
 info:
   title: Google Sheets
-  description: reads-and-writes-google-sheets-
-  termsOfService: https://developers.google.com/terms/
-  contact:
-    name: Google
-    url: https://google.com
-  version: v4
+  version: 1.0.0
 host: sheets.googleapis.com
 basePath: v4/
 schemes:
@@ -499,4 +493,3 @@ paths:
           description: OK
       tags:
       - Spreadsheet
----
